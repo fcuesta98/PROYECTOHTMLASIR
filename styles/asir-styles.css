@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+}
+
+/* Cabecera */
+header {
+    background-color: #001f3f; /* Azul oscuro */
+    color: #ffffff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Introducción */
+section#introduccion {
+    padding: 2rem;
+    background-color: #ffffff;
+}
+
+section#introduccion h2 {
+    color: #001f3f;
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+}
+
+/* Módulos */
+section#modulos {
+    padding: 2rem;
+    background-color: #f8f9fa;
+}
+
+section#modulos h2 {
+    color: #001f3f;
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+}
+
+section#modulos ul {
+    list-style: none;
+    padding: 0;
+}
+
+section#modulos ul li {
+    margin-bottom: 1rem;
+    background-color: #ffffff;
+    padding: 1rem;
+    border-left: 5px solid #001f3f;
+    border-radius: 5px;
+}
+
+section#modulos ul li strong {
+    color: #001f3f;
+    font-size: 1.1rem;
+}
+
+/* Estilo para las imágenes con la clase "imagen-modulo" */
+.imagen-modulo {
+    width: 800px; /* Ancho deseado */
+    height: auto; /* Mantiene la proporción */
+    margin: 10px 0; /* Espaciado opcional */
+    border: 2px solid #001f3f; /* Borde opcional */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+.imagen-modulo2 {
+    width: 600px; 
+    height: auto; 
+    margin: 10px 0; 
+    border: 2px solid #001f3f; 
+    border-radius: 5px; 
+}
+
+/* Contacto */
+section#contacto {
+    padding: 2rem;
+    background-color: #ffffff;
+}
+
+section#contacto h2 {
+    color: #001f3f;
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+}
+
+section#contacto p a {
+    color: #001f3f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section#contacto p a:hover {
+    text-decoration: underline;
+}
+
+/* Pie de página */
+footer {
+    background-color: #000000; /* fondo del pie Negro */
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+footer .social-links a {
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+
+footer .social-links a:hover {
+    color: #007bff; /* Azul claro cuando paso el raton por encima*/
+}
