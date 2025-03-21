@@ -1,0 +1,48 @@
+﻿<rss version="2.0">
+    <channel>
+        <!-- Prólogo -->
+        <title>Francisco Cuesta Rodríguez - ASIR</title>
+        <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/</link>
+        <description>Canal de noticias sobre el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).</description>
+        <category>educación/tecnología/ASIR</category>
+        <copyright>1º ASIR - LMSGI</copyright>
+        <image>
+            <url>https://fcuesta98.github.io/PROYECTOHTMLASIR/images/logo.jpg</url>
+            <title>Francisco Cuesta Rodríguez - ASIR</title>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/</link>
+            <width>30</width>
+            <height>30</height>
+        </image>
+        <language>es-es</language>
+        <lastBuildDate>Fri, 21 Mar 2025 14:30:00 +0100</lastBuildDate> 
+        <webMaster>francisco.cuesta.1998@gmail.com</webMaster>
+
+        <!-- Noticias del canal -->
+        <item>
+            <title>Introducción al Grado ASIR</title>
+            <description>Información sobre el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#introduccion</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>ASIR</category>
+            <pubDate>Fri, 21 Mar 2025 14:30:00 +0100</pubDate> 
+        </item>
+
+        <item>
+            <title>Módulos del Grado ASIR</title>
+            <description>Descripción detallada de los módulos que componen el Grado Superior ASIR.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#modulos</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>ASIR</category>
+            <pubDate>Fri, 21 Mar 2025 14:35:00 +0100</pubDate>  
+        </item>
+
+        <item>
+            <title>Contacto</title>
+            <description>Información de contacto para consultas sobre el Grado ASIR.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#contacto</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>ASIR</category>
+            <pubDate>Fri, 21 Mar 2025 14:40:00 +0100</pubDate> 
+        </item>
+    </channel>
+</rss>
