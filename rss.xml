@@ -1,49 +1,48 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-<!--Prólogo-->
-<title>Viajes y más</title>
-<link>https://estherostos.github.io/proyectofhw</link>
-<description> Canal de noticias sobre viajes cutres </description>
-<category>viajes/ciudades/ocio</category>
-<copyright>1º ASIR - LMSGI</copyright>
-<image>
-<url>
-https://estherostos.github.io/proyectofhw/viajes.jpg
-</url>
-<title>Viajes y más</title>
-<link>https://estherostos.github.io/proyectofhw</link>
-<width>30</width>
-<height>30</height>
-</image>
-<language>es-es</language>
-<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
-<webMaster>i42osose@gmail.com</webMaster>
-<!-- Noticias del canal -->
-<item>
-<title>Londres</title>
-<description>
-En este artículo encontrará información sobre Londres
-</description>
-<link>
-https://estherostos.github.io/proyectofhw/pages/londres.html
-</link>
-<author>ososes_iesma20@iesmedinaazahara.es</author>
-<category>londres</category>
-<enclosure url="https://youtu.be/VupykmeN-xM" type="video" length="32572719"/>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
-</item>
-<item>
-<title>París</title>
-<description>
-En este artículo encontrará información sobre París
-</description>
-<link>
-https://estherostos.github.io/proyectofhw/pages/paris.html
-</link>
-<author>ososes_iesma20@iesmedinaazahara.es</author>
-<category>paris</category>
-<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
-</item>
-</channel>
+    <channel>
+        <!-- Prólogo -->
+        <title>Francisco Cuesta Rodríguez - ASIR</title>
+        <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/</link>
+        <description>Canal de noticias sobre el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).</description>
+        <category>educación/tecnología/ASIR</category>
+        <copyright>1º ASIR - LMSGI</copyright>
+        <image>
+            <url>https://fcuesta98.github.io/PROYECTOHTMLASIR/images/logo.jpg</url>
+            <title>Francisco Cuesta Rodríguez - ASIR</title>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/</link>
+            <width>30</width>
+            <height>30</height>
+        </image>
+        <language>es-es</language>
+        <lastBuildDate>Sun, 10 Oct 2023 12:00:00 +0100</lastBuildDate>
+        <webMaster>francisco.cuesta.1998@gmail.com</webMaster>
+
+        <!-- Noticias del canal -->
+        <item>
+            <title>Introducción al Grado ASIR</title>
+            <description>Información sobre el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#introduccion</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>ASIR</category>
+            <pubDate>Sun, 10 Oct 2023 12:00:00 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Módulos del Grado ASIR</title>
+            <description>Descripción detallada de los módulos que componen el Grado Superior ASIR.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#modulos</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>ASIR</category>
+            <pubDate>Sun, 10 Oct 2023 12:05:00 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Contacto</title>
+            <description>Información de contacto para consultas sobre el Grado ASIR.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#contacto</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>ASIR</category>
+            <pubDate>Sun, 10 Oct 2023 12:10:00 +0100</pubDate>
+        </item>
+    </channel>
 </rss>
