@@ -1,0 +1,82 @@
+﻿<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://fcuesta98.github.io/PROYECTOHTMLASIR/">
+    <id>https://fcuesta98.github.io/PROYECTOHTMLASIR/</id>
+    <title>Francisco Cuesta Rodríguez - ASIR</title>
+    <updated>2025-03-21T12:00:00+01:00</updated>
+    <link rel="alternate" href="https://fcuesta98.github.io/PROYECTOHTMLASIR/atom.xml"/>
+    <author>
+        <name>Francisco Cuesta Rodríguez</name>
+        <email>francisco.cuesta.1998@gmail.com</email>
+    </author>
+    <category term="Educación/Tecnología/ASIR"/>
+    <contributor>
+        <name>Otro Autor</name>
+        <email>otro@gmail.com</email>
+        <uri>https://www.linkedin.com/in/otro</uri>
+    </contributor>
+    <logo>https://fcuesta98.github.io/PROYECTOHTMLASIR/images/logo.png</logo>
+
+    <!-- Entrada para "Sobre mí" -->
+    <entry>
+        <id>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#sobre-mi</id>
+        <title>Sobre mí</title>
+        <updated>2025-03-21T12:00:00+01:00</updated>
+        <author>
+            <name>Francisco Cuesta Rodríguez</name>
+            <email>francisco.cuesta.1998@gmail.com</email>
+        </author>
+        <summary>Información personal sobre Francisco Cuesta Rodríguez, sus estudios y aficiones.</summary>
+        <link rel="alternate" href="https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#sobre-mi"/>
+    </entry>
+
+    <!-- Entrada para "Estudios" -->
+    <entry>
+        <id>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#Estudios</id>
+        <title>Estudios</title>
+        <updated>2025-03-21T12:00:00+01:00</updated>
+        <author>
+            <name>Francisco Cuesta Rodríguez</name>
+            <email>francisco.cuesta.1998@gmail.com</email>
+        </author>
+        <summary>Detalles sobre los estudios realizados por Francisco Cuesta Rodríguez, incluyendo el Grado Superior en ASIR.</summary>
+        <link rel="alternate" href="https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#Estudios"/>
+    </entry>
+
+    <!-- Entrada para "Aficiones" -->
+    <entry>
+        <id>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#Aficiones</id>
+        <title>Aficiones</title>
+        <updated>2025-03-21T12:00:00+01:00</updated>
+        <author>
+            <name>Francisco Cuesta Rodríguez</name>
+            <email>francisco.cuesta.1998@gmail.com</email>
+        </author>
+        <summary>Intereses y pasatiempos de Francisco Cuesta Rodríguez, como la música y la naturaleza.</summary>
+        <link rel="alternate" href="https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#Aficiones"/>
+    </entry>
+
+    <!-- Entrada para "Contacto" -->
+    <entry>
+        <id>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#contacto</id>
+        <title>Contacto</title>
+        <updated>2025-03-21T12:00:00+01:00</updated>
+        <author>
+            <name>Francisco Cuesta Rodríguez</name>
+            <email>francisco.cuesta.1998@gmail.com</email>
+        </author>
+        <summary>Información de contacto de Francisco Cuesta Rodríguez.</summary>
+        <link rel="alternate" href="https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#contacto"/>
+    </entry>
+
+    <!-- Entrada para "Módulos de 1º ASIR" -->
+    <entry>
+        <id>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#modulos</id>
+        <title>Módulos de 1º ASIR</title>
+        <updated>2025-03-21T12:00:00+01:00</updated>
+        <author>
+            <name>Francisco Cuesta Rodríguez</name>
+            <email>francisco.cuesta.1998@gmail.com</email>
+        </author>
+        <summary>Descripción de los módulos del primer año del Grado Superior en ASIR.</summary>
+        <link rel="alternate" href="https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#modulos"/>
+    </entry>
+</feed>

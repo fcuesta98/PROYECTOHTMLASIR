@@ -1,0 +1,62 @@
+﻿<rss version="2.0">
+    <channel>
+        <!-- Prólogo -->
+        <title>Francisco Cuesta Rodríguez - ASIR</title>
+        <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/</link>
+        <description>Información sobre Francisco Cuesta Rodríguez y el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).</description>
+        <category>educación/tecnología/ASIR</category>
+        <copyright>1º ASIR - LMSGI</copyright>
+        <image>
+            <url>https://fcuesta98.github.io/PROYECTOHTMLASIR/images/logo.png</url>
+            <title>Francisco Cuesta Rodríguez</title>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/</link>
+            <width>30</width>
+            <height>30</height>
+        </image>
+        <language>es-es</language>
+        <lastBuildDate>Fri, 21 Mar 2025 12:00:00 +0100</lastBuildDate>
+        <webMaster>francisco.cuesta.1998@gmail.com</webMaster>
+
+        <!-- Noticias del canal -->
+        <item>
+            <title>Sobre mí</title>
+            <description>Información personal sobre Francisco Cuesta Rodríguez, sus estudios y aficiones.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#sobre-mi</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>sobre-mi</category>
+            <pubDate>Fri, 21 Mar 2025 12:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Estudios</title>
+            <description>Detalles sobre los estudios realizados por Francisco Cuesta Rodríguez, incluyendo el Grado Superior en ASIR.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#Estudios</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>estudios</category>
+            <pubDate>Fri, 21 Mar 2025 12:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Aficiones</title>
+            <description>Intereses y pasatiempos de Francisco Cuesta Rodríguez, como la música y la naturaleza.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#Aficiones</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>aficiones</category>
+            <pubDate>Fri, 21 Mar 2025 12:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Contacto</title>
+            <description>Información de contacto de Francisco Cuesta Rodríguez.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/index.html#contacto</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>contacto</category>
+            <pubDate>Fri, 21 Mar 2025 12:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Módulos de 1º ASIR</title>
+            <description>Descripción de los módulos del primer año del Grado Superior en ASIR.</description>
+            <link>https://fcuesta98.github.io/PROYECTOHTMLASIR/pages/ASIR.html#modulos</link>
+            <author>francisco.cuesta.1998@gmail.com</author>
+            <category>ASIR</category>
+            <pubDate>Fri, 21 Mar 2025 12:00:00 +0100</pubDate>
+        </item>
+    </channel>
+</rss>
